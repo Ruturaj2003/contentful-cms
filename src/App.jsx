@@ -1,6 +1,5 @@
-import Hero from './HEro';
 import Projects from './Projects';
-
+import Hero from './Hero';
 const App = () => {
   return (
     <main>
